@@ -28,7 +28,7 @@
 </p>
 </div>
 
-A library and tool for document translation and bilingual comparison ( Mainly for scientific papers currently ).
+A library and tool for document translation and bilingual comparison (Mainly for scientific papers currently).
 
 - **Online Service**: Beta version launched [Immersive Translate - BabelDOC](https://app.immersivetranslate.com/babel-doc/) 1000 free pages per month.
 - **Self-deployment**: [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) 1.9.3+ Experimental support for BabelDOC, available for self-deployment + WebUI with more translation services.
@@ -36,6 +36,7 @@ A library and tool for document translation and bilingual comparison ( Mainly fo
 - Provides a [Python API](#python-api).
 - Mainly designed to be embedded into other programs, but can also be used directly for simple translation tasks.
 
+[We are hiring](https://github.com/funstory-ai/jobs)
 ## Preview
 
 <div align="center">
