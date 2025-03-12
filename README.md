@@ -36,7 +36,7 @@ A library and tool for document translation and bilingual comparison (Mainly for
 - Provides a [Python API](#python-api).
 - Mainly designed to be embedded into other programs, but can also be used directly for simple translation tasks.
 
-[We are hiring](https://github.com/funstory-ai/jobs)
+[We are hiring!](https://github.com/funstory-ai/jobs)
 ## Preview
 
 <div align="center">
